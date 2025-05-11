@@ -1,7 +1,3 @@
-Here's an enriched version of your GitHub bio based on the detailed information you shared:
-
----
-
 * 👋 Hi, I’m **@mantuonweb** (Mantu Nigam)
 
 * 👨‍💻 I’m a **Front-End Developer** based in **New Delhi**, passionate about building clean and scalable user interfaces.
